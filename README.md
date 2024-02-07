@@ -7,10 +7,6 @@ URL: https://remed.webs.upv.es/congreso/
 2. [Titles](#titles)
 2. [Authors](#authors)
 2. [Overview](#overview)
-3. [Configuration](#configuration)
-   1. [Base Setup](#base-setup)
-4. [Uninstall](#uninstall)
-5. [Troubleshooting](#troubleshooting)
 
 ## Titles
 
@@ -33,20 +29,3 @@ Universitat Politècnica de València, València, España
 ## Overview
 
 En la literatura científica se suele estudiar el marketing cultural de museos desde la perspectiva del caso, analizando proyectos específicos; o, por el contrario, de forma genérica, sin basar el estudio en datos, en ocasiones difíciles de capturar. En este caso, se analiza la actividad conjunta de una muestra de los museos de la red REMED en Twitter, extrayendo datos cibermétricos de hashtags comunes y específicos utilizados por los miembros de la red. Sobre esos datos, se estudiará y aplicará la capacidad predictiva (para ciertos parámetros de éxito en términos de marketing cultural digital) de la regresión de Poisson, un tipo de modelo lineal generalizado que se usa para trabajar con datos de conteo (número de veces que ocurre cierto fenómeno). Como resultado obtendremos un mapa de ciertas características de comunicación empleadas por este subconjunto de cuentas sociales, a través de esta red social, cuyo rendimiento futuro podrá ser aproximado en base a la capacidad de predicción de distintas variables, que permitirían a esas cuentas conseguir mejor rendimiento, en términos de éxito digital.
-
-
-# Configuration
-
-## Base Setup
-
-1. 
-
-# Uninstall
-
-1. 
-
-# Troubleshooting
-
-## Error 1
-
-No errors.
